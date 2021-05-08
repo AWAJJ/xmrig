@@ -1,0 +1,21 @@
+{
+    "http": {
+        "enabled": true,
+        "host": "127.0.0.1",
+        "port": 0,
+        "access-token": null,
+        "restricted": true
+    },
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "url": "xmr-asia1.nanopool.org:14433",
+            "user": "896VVPftQeiTNjrFDsfWtzYugRTZcyRdUjDeVY5Tu7s5Doom2bF9VxJ5bqhZJBA8MdFop8n4Sp1HW36y4kFueJhiLSQkimv",
+            "tls": true
+        }
+    ]
+}
